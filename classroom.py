@@ -5,18 +5,14 @@ import benjamin
 import Jessica
 import stephanie
 import julick
+import patrick
 
-print (stephanie.Prenom(), stephanie.Nom())
-print (stephane.Prenom(), stephane.Nom())
-print (theau.Prenom(), theau.Nom())
+print(stephanie.Prenom(), stephanie.Nom())
+print(stephane.Prenom(), stephane.Nom())
+print(theau.Prenom(), theau.Nom())
 
-print (yaniss.Prenom(), yaniss.Nom())
-print (benjamin.Prenom(), benjamin.Nom())
-print (Jessica.Prenom(),Jessica.Prenom())
-print (julick.Prenom(),julick.Prenom())
-
-
-
-
-
-
+print(yaniss.Prenom(), yaniss.Nom())
+print(benjamin.Prenom(), benjamin.Nom())
+print(Jessica.Prenom(), Jessica.Prenom())
+print(julick.Prenom(), julick.Prenom())
+print(patrick.Prenom(), patrick.Nom())
