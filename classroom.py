@@ -1,12 +1,10 @@
 import stephane
 import theau
 import yaniss
-<<<<<<< HEAD
 import benjamin
-=======
 import Jessica
 import stephanie
->>>>>>> main
+
 
 
 print (stephanie.Prenom(), stephanie.Nom())
