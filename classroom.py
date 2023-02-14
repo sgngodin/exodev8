@@ -13,7 +13,7 @@ print (theau.Prenom(), theau.Nom())
 print (yaniss.Prenom(), yaniss.Nom())
 print (benjamin.Prenom(), benjamin.Nom())
 print (Jessica.Prenom(),Jessica.Nom())
-print (julick.Prenom(),julick.Prenom())
+print (julick.Prenom(),julick.Nom())
 
 
 
