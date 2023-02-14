@@ -1,3 +1,3 @@
 import stephane
 
-print (stephane.Prenom(), " ", stephane.Nom())
+print (stephane.Prenom(), stephane.Nom())
